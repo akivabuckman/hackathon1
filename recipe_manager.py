@@ -208,7 +208,7 @@ class RecipeManager:
         body = f"Hey {active_user},\n{recipe_name} recipe attached."
         msg.attach(MIMEText(body))
         attachment = open(
-            fr"C:\Users\akiva\Documents\Coding\DI\DI_Bootcamp\Hackathon1\saved_files\{recipe_name}.docx", 'rb')
+            fr"saved_files\{recipe_name}.docx", 'rb')
         part = MIMEBase("application", "octet-stream")
         part.set_payload(attachment.read())
         encoders.encode_base64(part)
