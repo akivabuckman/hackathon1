@@ -1,0 +1,6 @@
+Akiva
+This is an exceptionally comprehensive and well-structured project! I am impressed with your email functionality and your UI structuring, even though relying solely on modules can be somewhat limiting. You've masterfully used all the concepts we've covered up to week 4. Your project is impressive. Do add a README file and a requirements.txt to aid others in using your program.
+Python OOP: 10/10
+Databases: 10/10
+API/Jason: 10/10
+General score: 10
