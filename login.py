@@ -4,7 +4,7 @@ import random
 import string
 import tkinter as tk
 
-CONNECTION = psycopg2.connect(host='localhost', user='postgres', password='1234', dbname='hackathon1')
+CONNECTION = psycopg2.connect(host='localhost', user='postgres', password='1948', dbname='Hackathon_1')
 CURSOR = CONNECTION.cursor()
 
 
